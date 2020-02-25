@@ -1,8 +1,8 @@
 class Zld < Formula
-  version "0.1.0"
+  version "0.1.1"
   desc "A faster version of ld, Apple's linker"
   url "https://github.com/michaeleisel/zld/releases/download/#{version}/zld.zip"
-  sha256 "0ca3a32d52ff1ffffdd6bd72b1671cb1034ac91e0c27ba0433fbb97d31ab39b4"
+  sha256 "6855e1269db59d1d2e49294c1792efca730b9e805f0c4b8027f50223024c8aee"
   depends_on "parallelstl"
   homepage "https://github.com/michaeleisel/zld"
 
