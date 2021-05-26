@@ -1,5 +1,5 @@
 class Zld < Formula
-  version "1.3.0.1" # Don't update without moving off temp branch
+  version "1.3.1" # Don't update without moving off temp branch
   desc "A faster version of ld, Apple's linker"
   # This is a temporary branch for debugging
   url "https://github.com/michaeleisel/zld/archive/refs/heads/homebrew-fixes.zip"
