@@ -1,9 +1,9 @@
 class Zld < Formula
-  version "1.3.1.1" # Don't update without moving off temp branch
   desc "A faster version of ld, Apple's linker"
+  version "1.3.1.1" # Don't update without moving off temp branch
   # This is a temporary branch for debugging
-  url "https://github.com/michaeleisel/zld/archive/refs/heads/homebrew-building.zip"
-  sha256 "58fe5e803d82e4b37301fd0789cec5bd83a3bf8487d7812c02511b07325a497d"
+  url "https://github.com/michaeleisel/zld/archive/refs/heads/homebrew-building.tar.gz"
+  sha256 "cf74f38ad6c40024d95347b6f4f4c22e12c1c50315ba325650f8e81243728352"
   homepage "https://github.com/michaeleisel/zld"
   depends_on "cmake" => :build
 
