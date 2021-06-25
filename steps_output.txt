@@ -1,0 +1,2 @@
+Error: 1 failed step!
+brew audit --tap=homebrew/core --except=version
