@@ -1,8 +1,8 @@
 class Zld < Formula
-  version "1.3.4"
+  version "1.3.8"
   desc "A faster version of ld, Apple's linker"
-  url "https://github.com/michaeleisel/zld/archive/709187361b9871984eaf92057c74cc4aa4a4906f.zip"
-  sha256 "1803565f6bf642ba21381798cf1aa50c34eaca28ba4c5c3d7e38a1816f535935"
+  url "https://github.com/michaeleisel/zld/archive/54f29464a6e6926f7535f3a990c6aca3dfc4f513.zip"
+  sha256 "0b26bc1330db1f9d9470b15a6f5fb94f06cef7f70f4bf8ccb07ac3c72274cfdc"
   homepage "https://github.com/michaeleisel/zld"
   depends_on "cmake" => :build
 
